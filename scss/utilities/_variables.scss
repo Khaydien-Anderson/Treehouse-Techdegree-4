@@ -13,7 +13,24 @@ $info-button-color: #927bc1;
 $success-button-color: #63cc82;
 $warning-button-color: #fd7856;
 $hover-color: #58e1c1;
+$hover-light: lighten($hover-color, 20%);
 
 
 //Media Quieries//
 $break-s : 'min-width: 768px';
+
+
+//column colors //
+
+$column-1-col: #927bc1;
+$column-2-col: #fd7856;
+$column-3-col: #deb2ee;
+$column-4-col: #7ee6fd;
+$column-5-col: #88d9a0;
+$column-6-col: #4da2bb;
+$column-7-col: #ec9fa3;
+$column-8-col: #fd9f85;
+$column-9-col: #e4757a;
+$column-10-col: #63cc82;
+$column-11-col: #51ddfc;
+$column-12-col: #80e8d1;
